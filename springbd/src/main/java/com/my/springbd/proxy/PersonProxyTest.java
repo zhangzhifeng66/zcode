@@ -24,7 +24,7 @@ public class PersonProxyTest {
         // 4.通过动态生成的代理对象去执行增强代码逻辑和执行源目标类Student的wakeup、sleep方法逻辑
         student.wakeup();
         student.sleep();
-        System.out.println("111111111111");
+//        System.out.println("111111111111");
 
     }
 }
